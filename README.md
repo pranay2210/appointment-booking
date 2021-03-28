@@ -5,7 +5,7 @@ This is an appointment booking API Application based on different Time zones
 
 # App Settings
 
-App configuration can be changes for time zone, availableStartHour, availableEndHour,defaultTimeZone, timeIntervals for doctors timezone.
+App configuration can be changed for time zone, availableStartHour, availableEndHour,defaultTimeZone, timeIntervals for doctors timezone.
 
 {
     availableStartHour: 10, //save start time in 24 hours format double digit 
