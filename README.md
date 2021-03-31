@@ -14,6 +14,13 @@ App configuration can be changed for time zone, availableStartHour, availableEnd
     timeIntervals: 30 //set in minutes
 }
 
+# Demo
+
+
+https://user-images.githubusercontent.com/37976696/113167368-490cf100-9261-11eb-8bca-9d266343845a.mp4
+
+
+
 # APIs 
 
 => 1. GET /getFreeSlots
@@ -38,5 +45,8 @@ App configuration can be changed for time zone, availableStartHour, availableEnd
 
     Example:    startDate:2021-3-24
                 endDate:2021-3-31
+                                
+# More documentation can be found on
+ https://documenter.getpostman.com/view/9795415/TzCMdoMs
 
 Note all dates are required to be passed in "yyyy-mm-dd" format.
